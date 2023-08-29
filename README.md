@@ -2,7 +2,9 @@
 
 
 
-https://github.com/ThulaniMtetwa/CoOrdinatorNavigator/assets/8955097/e35828f8-6b9a-490a-a875-2858b8aa9643
+
+https://github.com/ThulaniMtetwa/CoOrdinatorNavigator/assets/8955097/f673bdfe-0eb5-4dc0-8630-a84f14e477e3
+
 
 
 The following project looks into how a project can adopt a co-ordinator pattern to handle navigation between View Controllers.
